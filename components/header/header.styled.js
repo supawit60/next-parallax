@@ -1,5 +1,4 @@
 import styled from 'styled-components';
-import { Header } from '@/components/header/index';
 
 export const HeaderContainer = styled.div`
   display: flex;

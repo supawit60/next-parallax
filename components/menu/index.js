@@ -1,5 +1,4 @@
 import { LinkGroup, MenuContainer } from '@/components/menu/menu.styled';
-import Link from 'next/link';
 
 export const Menu = () => {
   return (
